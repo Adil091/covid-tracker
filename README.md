@@ -1,7 +1,7 @@
 # covid-tracker
 The following was discovered as part of building this project:
 
-* The original package name 'com.covidtracker.covid-tracker' is invalid and this project uses 'com.covidtracker.covidtracker' instead.
+
 
 # Getting Started
 
